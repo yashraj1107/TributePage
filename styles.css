@@ -1,0 +1,26 @@
+* {
+  background-color: rgb(0, 0, 0);
+}
+.container {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+img {
+  max-width: 100%;
+}
+.text {
+  font-size: 35px;
+  padding: 70px 330px 100px 150px;
+  float: right;
+  text-align: center;
+  color: white;
+}
+.para{
+  font-size: 15px;
+  float: right;
+  text-align: center;
+  color: white;
+  padding: 10px 150px;
+  
+}
